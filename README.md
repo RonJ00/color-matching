@@ -15,6 +15,8 @@ Sumber 1 : https://data-flair.training/blogs/project-in-python-colour-detection/
 <br>
 Sumber 2 : https://medium.com/programming-fever/color-detection-using-opencv-python-6eec8dcde8c7
 
+<br>
+Untuk Menampilkan hasil dari warna tersebut, lakukan double klik pada sebuah warna lalu akan muncul warna seperti gambar dibawah ini : 
 
 <br>
 
