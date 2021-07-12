@@ -17,10 +17,7 @@ Sumber 2 : https://medium.com/programming-fever/color-detection-using-opencv-pyt
 
 <br>
 Untuk Menampilkan hasil dari warna tersebut, lakukan double klik pada sebuah warna lalu akan muncul warna seperti gambar dibawah ini : 
-
-<br>
-
-Berikut ini adalah SS dari hasil Color Matching : 
+ 
 <br>
 <img width="809" alt="Screenshot 2021-07-12 190757" src="https://user-images.githubusercontent.com/87052986/125285199-9c084100-e344-11eb-84e0-77808ff6778c.png">
 <br>
