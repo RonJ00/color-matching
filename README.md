@@ -9,7 +9,7 @@ Untuk Menjalankan hasil tersebut, tentu harus bersabar. Langkah-langkahnya adala
 
 Cara Menjalankan di CMD : python nama file.py -i (import) gambar yg ingin dimasukkan
 <br>
-<img width="242" alt="Screenshot 2021-07-12 190553" src="https://user-images.githubusercontent.com/87052986/125284913-39af4080-e344-11eb-90c2-4c8bd8cd9456.png">
+Contoh : <img width="242" alt="Screenshot 2021-07-12 190553" src="https://user-images.githubusercontent.com/87052986/125284913-39af4080-e344-11eb-90c2-4c8bd8cd9456.png">
 
 Sumber 1 : https://data-flair.training/blogs/project-in-python-colour-detection/
 <br>
